@@ -31,6 +31,15 @@
   @apply container px-5 mx-auto sm:px-7;
 }
 
+@keyframes cat-fall {
+  from {
+    top: -10%;
+  }
+  to {
+    top: 110%;
+  }
+}
+
 .core-feature-icon {
   background-image: linear-gradient(
     180deg,
