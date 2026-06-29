@@ -3,14 +3,14 @@ export const COMMITMENTS = [
     number: "01",
     title: "Desarrollo profesional",
     description:
-      "Profundizar en metodologías y herramientas de QA tomando un curso de testing automatizado y otro de fundamentos de QA y diseño de casos de prueba, dedicando mis tiempos libres al estudio. La meta es construir las bases para no solo ejecutar pruebas manuales, sino aportar automatización y una mirada crítica de calidad que cubra front, back y mobile cuando el equipo lo necesite.",
+      "Profundizar en metodologías y herramientas de QA tomando un curso de testing automatizado y otro de fundamentos de QA y diseño de casos de prueba, dedicando mis tiempos libres al estudio. La meta es aplicar estos conocimientos en un proyecto real de la empresa, armando un conjunto de pruebas automatizadas que sirva como demostración práctica para todo el equipo: un caso concreto donde se vea al detalle cómo la automatización ayuda a garantizar un producto de calidad. Así no solo fortalezco mis bases para ejecutar pruebas manuales, sino que aporto automatización y una mirada crítica de calidad que pueda cubrir front, back y mobile cuando el equipo lo necesite. ",
     icon: "growth",
   },
   {
     number: "02",
     title: "Colaboración (integrarme temprano al ciclo)",
     description:
-      "Agendar una sesión semanal de sincronización con mi equipo para revisar los features en curso desde la etapa de definición, aclarar criterios de aceptación y planear la estrategia de pruebas antes de que el desarrollo termine. El objetivo es detectar errores y riesgos a tiempo, evitando que comprometan las fechas de entrega.",
+      "Armar una matriz de pruebas que funcione como plantilla para el equipo, aprovechando que prácticamente todos nuestros proyectos cubren lo mismo. La idea es que en cada proyecto sirva para ver de un vistazo qué aplica y qué no, y así medir si se están cumpliendo los requerimientos antes de mandar el trabajo a QA. Con esto buscamos integrar la mirada de calidad desde el inicio y evitar devoluciones que nos hagan retroceder y comprometan las fechas de entrega.",
     icon: "collaboration",
   },
   {

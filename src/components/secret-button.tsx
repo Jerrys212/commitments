@@ -28,6 +28,7 @@ export function SecretButton() {
       <button
         type="button"
         onMouseEnter={() => setPosition(randomPosition())}
+        onTouchStart={(e) => { e.preventDefault(); setPosition(randomPosition()); }}
         onClick={() => setRevealed(true)}
         style={{
           top: `${position.top}%`,
